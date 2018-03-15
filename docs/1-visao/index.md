@@ -39,7 +39,7 @@ Este documento apresenta uma solução de software para o projeto "Think Tasty",
 ## Funcionalidades do produto
 
 * Filtrar as receitas
-* Ver a reecita
+* Ver a receita
 * Salvar a receita
 * Acessar receitas salvas
 * Postar a receita
