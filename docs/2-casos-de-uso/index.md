@@ -20,6 +20,7 @@
 | 1)O sistema direciona o usuário a aba ‘Receitas’, disponível como primeira opção da tab bar , sendo que há a possibilidade de  filtrar de acordo com o caso de uso ‘UC02’|
 | 2)O usuário clica na receita desejada|
 | 3)O sistema retorna a página da receita, que poderá ser salva|
+
 | Fluxo Alternativo |
 |---|
 | 1)O sistema direciona o usuário a aba ‘Receitas’,  sendo que há a possibilidade de  filtrar|
@@ -38,9 +39,9 @@
 
 | Fluxo Principal |
 |---|
-1) O sistema direciona o usuário a aba ‘Receitas’, disponível como primeira opção da tab bar, sendo que há a possibilidade de  filtrar de acordo com o caso de uso ‘UC02’|
-2) O usuário seleciona os filtros que deseja e clica em ‘Buscar’|
-3) O sistema retorna as receitas que atendem o filtro especificado|
+|1) O sistema direciona o usuário a aba ‘Receitas’, disponível como primeira opção da tab bar, sendo que há a possibilidade de  filtrar de acordo com o caso de uso ‘UC02’|
+|2) O usuário seleciona os filtros que deseja e clica em ‘Buscar’|
+|3) O sistema retorna as receitas que atendem o filtro especificado|
 
 ### 2.3 Caso de uso : Salvar receita
 | Campo          | Informação        |
@@ -52,9 +53,9 @@
 
 | Fluxo Principal |
 |---|
-1) O sistema direciona o usuário a aba ‘Receitas’, disponível como primeira opção da tab bar,  sendo que há a possibilidade de  filtrar de acordo com o caso de uso ‘UC02’|
-2) O usuário irá clicar na receita|
-3) O sistema retorna a página da receita com o botão ‘Salvar’|
+|1) O sistema direciona o usuário a aba ‘Receitas’, disponível como primeira opção da tab bar,  sendo que há a possibilidade de  filtrar de acordo com o caso de uso ‘UC02’|
+|2) O usuário irá clicar na receita|
+|3) O sistema retorna a página da receita com o botão ‘Salvar’|
 
 ### 2.4 Caso de uso : Acessar receitas salvas
 | Campo          | Informação        |
@@ -66,10 +67,10 @@
 
 | Fluxo Principal |
 |---|
-1) O sistema direciona o usuário a aba ‘Receitas’, disponível como primeira opção da tab bar,  sendo que há a possibilidade de  filtrar|
-2) O usuário clica em ‘Favoritas’, disponível como segunda  opção da tab bar|
-3) O sistema retorna as receitas salvas, sendo que há a possibilidade de filtrar de acordo com o caso de uso ‘UC02’|
-4) O usuário pode ver a página da receita, de acordo com o caso de uso ‘UC02’|
+|1) O sistema direciona o usuário a aba ‘Receitas’, disponível como primeira opção da tab bar,  sendo que há a possibilidade de  filtrar|
+|2) O usuário clica em ‘Favoritas’, disponível como segunda  opção da tab bar|
+|3) O sistema retorna as receitas salvas, sendo que há a possibilidade de filtrar de acordo com o caso de uso ‘UC02’|
+|4) O usuário pode ver a página da receita, de acordo com o caso de uso ‘UC02’|
 
 ### 2.5 Caso de Uso: Postar Receita
 | Campo          | Informação        |
@@ -102,6 +103,7 @@
 | 3)O usuário acessa a opção ‘Apagar Receita’|
 | 4)O Sistema mostra as receitas publicadas|
 | 5)O usuário seleciona a(s) receita(s) que deseja apagar e salva|
+
 | Fluxo Alternativo |
 |---|
 | 1)O usuário acessa o portal online e faz login|
