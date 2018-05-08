@@ -82,11 +82,10 @@
 
 | Fluxo Principal |
 |---|
-| 1)O usuário acessa o portal online e faz login|
-| 2)O sistema retorna uma página de menu com as opções|
-| 3)O usuário acessa a opção ‘Postar Receita’|
-| 4)O Sistema devolve um formulário|
-| 5)O usuário preenche o formulário com a receita e as restrições que a receita atende (por checkbox) e salva|
+| 1)Após logar, o sistema retorna uma página de menu com as opções|
+| 2)O usuário acessa a opção ‘Postar Receita’|
+| 3)O Sistema devolve um formulário|
+| 4)O usuário preenche o formulário com a receita e as restrições que a receita atende (por checkbox) e salva|
 
 ### 2.6 Caso de Uso: Apagar Receita
 | Campo          | Informação        |
@@ -98,20 +97,18 @@
 
 | Fluxo Principal |
 |---|
-| 1)O usuário acessa o portal online e faz login|
-| 2)O sistema retorna uma página de menu com as opções|
-| 3)O usuário acessa a opção ‘Apagar Receita’|
-| 4)O Sistema mostra as receitas publicadas|
-| 5)O usuário seleciona a(s) receita(s) que deseja apagar e salva|
+| 1)Após logar, o sistema retorna uma página de menu com as opções|
+| 2)O usuário acessa a opção ‘Apagar Receita’|
+| 3)O Sistema mostra as receitas publicadas|
+| 4)O usuário seleciona a(s) receita(s) que deseja apagar e salva|
 
 | Fluxo Alternativo |
 |---|
-| 1)O usuário acessa o portal online e faz login|
-| 2)O sistema retorna uma página de menu com as opções|
-| 3)O usuário acessa a opção ‘Apagar Receita’|
-| 4)O Sistema mostra as receitas publicadas|
-| 5)O usuário não seleciona nenhuma receita|
-| 6)O sistema exibe um erro alegando que nenhuma receita foi selecionada|
+| 1)Após logar, o sistema retorna uma página de menu com as opções|
+| 2)O usuário acessa a opção ‘Apagar Receita’|
+| 3)O Sistema mostra as receitas publicadas|
+| 4)O usuário não seleciona nenhuma receita|
+| 5)O sistema exibe um erro alegando que nenhuma receita foi selecionada|
 
 
 
